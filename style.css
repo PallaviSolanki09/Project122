@@ -1,0 +1,27 @@
+body
+{
+	text-align: center;
+	background-image: url("https://cdn.wallpapersafari.com/71/86/dUNYbh.jpg");
+	background-position: center;
+	background-size: cover;
+}
+span
+{
+	font-size: 22px;
+	color: red;
+}
+canvas
+{
+	margin-top: 5%;
+	background: rgb(199, 255, 199);
+	border: 3px solid black;
+	box-shadow: 1px 1px 60px darkgreen;
+	border-radius: 20px;
+}
+h1
+{
+	color: rgb(0, 0, 0);
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	font-size: 50px;
+	text-shadow: 1px 1px 30px darkgreen;
+}
